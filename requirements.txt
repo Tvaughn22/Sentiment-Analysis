@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+datasets
+matplotlib
+jupyter
+torch
+gensim
+nltk
+joblib
+tqdm
+seaborn
