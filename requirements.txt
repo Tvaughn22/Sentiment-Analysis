@@ -10,3 +10,4 @@ nltk
 joblib
 tqdm
 seaborn
+pytest
